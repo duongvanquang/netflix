@@ -1,0 +1,16 @@
+{
+    "homescreen": {
+        "titlepopular": "Popular on Netflix",
+        "titletrending": "Trending Now",
+        "titlewatch": "Watch It Again",
+        "titlelist": "My List",
+        "tvshow": "TV Shows",
+        "movies": "Movies",
+        "categories": "Categories",
+        "configurationfailure": "Failed to load configuration",
+        "random": "DOWNLOAD"
+    },
+    "tvshowbloc": {
+        "statefailure": " Something went wrong, check your internet connection!"
+    }
+}
