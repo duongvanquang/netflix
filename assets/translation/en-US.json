@@ -12,5 +12,26 @@
     },
     "tvshowbloc": {
         "statefailure": " Something went wrong, check your internet connection!"
+    },
+    "loginscreen": {
+        "textfiledemail": "Email hoặc số điện thoại",
+        "textfiledpassword": "Mật Khẩu",
+        "buttonlogin": "Đăng Nhập",
+        "texthelp": "Bạn cần trợ giúp?",
+        "textsignup": "Bạn mới sử dụng Netflix?",
+        "buttonsignup": " Đăng ký ngay.",
+        "helpsignup": "Sign in is protected by Google reCAPTCHA to ensure you're not a bot.Learn more.",
+        "accountnotfound": "Account does not exists",
+        "incorrectpassword": "Incorrect password"
+    },
+    "signupscreen": {
+        "titleaccount": "Please Singup to your account",
+        "labeltextemail": "Email Address",
+        "labeltextpassword": "Pass Word",
+        "forget": "Forget PassWord",
+        "signup": "Signup",
+        "invalidemail": "Invalid email",
+        "invalidpassword": "Password should have more than 8 characters,\nincluding number, lower and upper character,\nand special symbol.",
+        "existaccount": "Account already exists. Please change guest account"
     }
 }
